@@ -1,0 +1,8 @@
+{
+  "name": "kaigo-watch",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update-news": "node scripts/update-news.mjs"
+  }
+}

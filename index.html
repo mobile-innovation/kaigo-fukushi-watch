@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>福祉・介護ウォッチ</title>
+  <style>
+    :root { --ink:#13251e; --muted:#64756e; --line:#dfe8e2; --surface:#fff; --mint:#dcf4e6; --green:#176b48; --orange:#ff8b52; --page:#f5f8f5; }
+    * { box-sizing:border-box; }
+    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",sans-serif; color:var(--ink); background:var(--page); }
+    header { background:#113c2b; color:white; padding:27px clamp(20px,5vw,72px) 32px; }
+    .bar { display:flex; justify-content:space-between; align-items:center; max-width:1220px; margin:auto; }
+    .brand { font-weight:800; font-size:20px; letter-spacing:.03em; } .badge { background:#316a51; padding:7px 11px; border-radius:999px; font-size:12px; }
+    header h1 { max-width:1220px; margin:42px auto 7px; font-size:clamp(28px,4vw,45px); letter-spacing:-.045em; }
+    header p { max-width:1220px; margin:0 auto; color:#c8ded2; }
+    main { max-width:1220px; margin:0 auto; padding:28px clamp(20px,5vw,72px) 55px; }
+    .controls { display:flex; flex-wrap:wrap; gap:10px; justify-content:space-between; align-items:center; margin-bottom:26px; }
+    .filters { display:flex; flex-wrap:wrap; gap:8px; } button { border:1px solid var(--line); font:inherit; cursor:pointer; border-radius:999px; padding:9px 14px; color:var(--ink); background:white; }
+    button.active { background:var(--green); color:white; border-color:var(--green); } button:hover { transform:translateY(-1px); }
+    .updated { font-size:13px; color:var(--muted); }
+    .metrics { display:grid; grid-template-columns:repeat(3,1fr); gap:15px; margin-bottom:27px; }
+    .metric { background:var(--surface); border:1px solid var(--line); padding:19px; border-radius:17px; }
+    .metric small { color:var(--muted); display:block; margin-bottom:9px; } .metric strong { font-size:25px; } .rise { font-size:12px; color:var(--green); margin-left:7px; }
+    .layout { display:grid; grid-template-columns:minmax(0,1.7fr) minmax(260px,.8fr); gap:23px; }
+    .panel { background:var(--surface); border:1px solid var(--line); border-radius:18px; overflow:hidden; }
+    .panel h2 { font-size:18px; margin:0; padding:21px 22px 13px; } .panel .sub { margin:-4px 22px 14px; font-size:13px; color:var(--muted); }
+    .article { display:flex; gap:15px; padding:17px 22px; border-top:1px solid var(--line); text-decoration:none; color:inherit; }
+    .article:hover { background:#f8fcf9; } .date { color:var(--muted); font-size:12px; min-width:70px; padding-top:3px; } .article h3 { margin:0 0 6px; font-size:16px; line-height:1.48; } .article p { margin:0; color:var(--muted); font-size:13px; line-height:1.5; }
+    .tag { display:inline-block; background:var(--mint); color:#135437; font-size:11px; font-weight:700; border-radius:5px; padding:3px 6px; margin-right:5px; }
+    .trend { display:flex; align-items:center; gap:11px; padding:14px 21px; border-top:1px solid var(--line); } .number { color:var(--orange); font-weight:800; width:20px; } .trend a { color:inherit; text-decoration:none; flex:1; font-weight:650; } .up { color:var(--green); font-size:12px; }
+    .note { margin-top:22px; background:#e9f5ed; padding:15px 18px; border-radius:13px; font-size:13px; line-height:1.6; color:#28503d; }
+    .empty { padding:30px 22px; color:var(--muted); display:none; }
+    @media(max-width:720px){.metrics{grid-template-columns:1fr}.layout{grid-template-columns:1fr}.article{gap:10px}.date{min-width:56px}.bar{align-items:flex-start}.badge{display:none}}
+  </style>
+</head>
+<body>
+  <header>
+    <div class="bar"><div class="brand">福祉・介護ウォッチ</div><div class="badge">無料版 / 日本国内</div></div>
+    <h1>福祉と介護の、いま大事な話題。</h1>
+    <p>制度・人材・テクノロジーの動きを、ひとつの画面で追います。</p>
+  </header>
+  <main>
+    <div class="controls"><div class="filters" aria-label="記事を絞り込み"><button class="active" data-filter="all">すべて</button><button data-filter="制度">制度・補助金</button><button data-filter="人材">人材</button><button data-filter="テック">テクノロジー</button><button data-filter="地域">地域・在宅</button></div><div class="updated">最終更新：<span id="today"></span></div></div>
+    <section class="metrics"><div class="metric"><small>今週の新着記事</small><strong id="count">6</strong><span class="rise">● 更新中</span></div><div class="metric"><small>注目キーワード</small><strong>介護DX</strong><span class="rise">↗ 関心上昇</span></div><div class="metric"><small>優先トピック</small><strong>人材確保</strong><span class="rise">↗ 継続監視</span></div></section>
+    <section class="layout">
+      <div class="panel"><h2>最新記事</h2><p class="sub">見出しをクリックすると元記事を開けます</p><div id="articles"></div><p class="empty" id="empty">この分類の記事はまだありません。</p></div>
+      <aside class="panel"><h2>注目キーワード</h2><p class="sub">X検索を手動で開けます</p><div id="trends"></div></aside>
+    </section>
+    <div class="note">この試作版は、無料で使える構成です。実運用では、各メディアのRSSを接続して記事を自動更新できます。Xの投稿は自動取得せず、キーワードごとの検索画面を開く方式にしています。</div>
+  </main>
+  <script>
+    let articles = [
+      {d:'08/04',c:'制度',t:'介護保険制度をめぐる最新の検討状況を確認する',x:'制度改正や支援策の情報は、現場の運営や利用者支援に直結します。',u:'https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/index.html'},
+      {d:'08/03',c:'人材',t:'介護人材の確保・定着で押さえたい支援策',x:'採用だけでなく、処遇改善と働き続けられる環境づくりが焦点です。',u:'https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000209647.html'},
+      {d:'08/02',c:'テック',t:'見守り・記録のデジタル化、現場での活用が広がる',x:'業務負担を減らし、ケアの質を保つための介護テクノロジーを追います。',u:'https://www.mhlw.go.jp/stf/kaigo-robot.html'},
+      {d:'08/01',c:'地域',t:'在宅介護を支える地域包括ケアの取り組み',x:'医療・介護・住まい・生活支援の連携が重要になっています。',u:'https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/kaigo_koureisha/chiiki-houkatsu/'},
+      {d:'07/31',c:'制度',t:'障害福祉サービスに関する新しい情報を確認',x:'高齢者福祉とあわせて、障害福祉の制度動向も確認できます。',u:'https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/hukushi_kaigo/shougaishahukushi/'},
+      {d:'07/30',c:'人材',t:'外国人介護人材の受け入れと定着支援',x:'多様な人材が働きやすい職場づくりに関する情報です。',u:'https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000180331.html'}
+    ];
+    const trends=['介護DX','処遇改善','訪問介護','介護人材','地域包括ケア'];
+    const list=document.querySelector('#articles'), empty=document.querySelector('#empty');
+    function render(filter='all'){ const current=articles.filter(a=>filter==='all'||a.c===filter); list.innerHTML=current.map(a=>`<a class="article" href="${a.u}" target="_blank" rel="noopener"><span class="date">${a.d}</span><div><span class="tag">${a.c}</span><h3>${a.t}</h3><p>${a.x}</p></div></a>`).join(''); empty.style.display=current.length?'none':'block'; document.querySelector('#count').textContent=current.length; }
+    document.querySelectorAll('[data-filter]').forEach(b=>b.onclick=()=>{document.querySelector('.active').classList.remove('active');b.classList.add('active');render(b.dataset.filter)});
+    document.querySelector('#trends').innerHTML=trends.map((t,i)=>`<div class="trend"><span class="number">${i+1}</span><a target="_blank" rel="noopener" href="https://x.com/search?q=${encodeURIComponent(t)}&src=typed_query">${t}</a><span class="up">↗</span></div>`).join('');
+    document.querySelector('#today').textContent=new Intl.DateTimeFormat('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date()); render();
+    fetch('data/news.json').then(r=>r.ok?r.json():Promise.reject()).then(data=>{
+      if(Array.isArray(data.articles)&&data.articles.length){ articles=data.articles; render(document.querySelector('.active').dataset.filter); }
+      if(data.updatedAt) document.querySelector('#today').textContent=new Intl.DateTimeFormat('ja-JP',{month:'numeric',day:'numeric',hour:'2-digit',minute:'2-digit'}).format(new Date(data.updatedAt));
+    }).catch(()=>{});
+  </script>
+</body>
+</html>
