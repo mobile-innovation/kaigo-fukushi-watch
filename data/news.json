@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T13:37:08.329Z",
+  "updatedAt": "2026-08-14T19:10:22.636Z",
   "articles": [
     {
       "d": "08/14",
@@ -66,10 +66,24 @@
     },
     {
       "d": "08/05",
+      "c": "テック",
+      "t": "厚生労働省「令和８年度介護テクノロジーのニーズ・シーズマッチング支援事業」および新規マッチングサポーターの公募 - nttdata-strategy.com",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5bXVaV1hJX2NNUUFDNUNwRlZldkJzVUtpYWQxVERBUUlMMWlzY19pY2NCTkhSRnVzdmR6cVRFUnNFR015VlRTclpUUllvbnBoT0hMaXd3Ny1BTEgyZ3VsSC11UDhOOU4t?oc=5"
+    },
+    {
+      "d": "08/05",
       "c": "人材",
       "t": "【お知らせ】令和8年度介護人材確保・定着促進に係る取組 - pref.kagoshima.jp",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xU1N2QXFaV2IweXdJUktoMk5QTFV3RDJLM2xYb1N1RHppN2xpbkVPbGszak8xbkdlV0FvRkNrejI5Rm9FUWxkMjZQSTlfbUJkNzMxbDVmSWNpUmlGeURBR05JemlFX1pVVVhld0Nfa3FFVHFZ?oc=5"
+    },
+    {
+      "d": "08/04",
+      "c": "テック",
+      "t": "介護テクノロジーの試用貸出リスト（令和8年7月）に掲載 - daihatsu.co.jp",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40NGNCWnNHeXJWR2JHcjBlbTBISlBlcVBRYmlzRFhiajRnQk95RXhiVTRiY2l1Zm9tTUZ4MTFfTzRBcXoySHl2d1liclYxcG84ZENlU0prNGdGX2lZNXViVVNIMzRfVFdsSUd2TnlR?oc=5"
     },
     {
       "d": "08/03",
@@ -107,13 +121,6 @@
       "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qQl83VDZJZkE5UnhuYW5XWDV0b2JLcUpIaVI4NDZwUnBBaERGMV84Qk5LRVEzYV96b09aYlp4MmR0QWN0QUFKNGdUQkJWcEkzYVp2akZVRG1PVFh6ZjNINHA0Ynh1dURxVXAzN3pjdmtoaHNidEtr?oc=5"
     },
     {
-      "d": "06/15",
-      "c": "テック",
-      "t": "「介護テクノロジー体験展示会inミライノカイゴ」開催のお知らせ - 福島県ホームページ",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5DYnUwUVZQb3RSb0ZGSnJpQ2tDazVfaWotaUZ6Nmx5VlNUNzdfSGZfY3JtTjlhWGkyUU1xOGtyUjdUaWRHTHRoUkhrNHVMdGFSSTRYMG1BOFN1dlU5ellsUDBHbjZwa05DSVpJ?oc=5"
-    },
-    {
       "d": "06/01",
       "c": "テック",
       "t": "令和８年度「介護テクノロジー定着支援事業」補助金制度について - pref.hiroshima.lg.jp",
@@ -133,13 +140,6 @@
       "t": "外国人介護人材雇用緊急対策補助金（旧：外国人介護人材雇用インセンティブ補助金）について - 大分県ホームページ",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWW5Fdnd2Rk9NUEpLaGhQTjZ3SVFSNUxGc25tbkF3RFlYWlpDTXN5N3hmUnpoV3k5cEZtTThReGhPeWdnaV9hdE5HcTdrYWRNTU9lTTE2NTdJOFpFR0pRdV9HNzRHd2w2R0JSeUJpUk5tX0QwaVRqVA?oc=5"
-    },
-    {
-      "d": "04/01",
-      "c": "テック",
-      "t": "十日町市介護テクノロジー導入支援補助金 - city.tokamachi.lg.jp",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcU53SlJDSE1FNmg5bkRxOGZKVHBKU1RYdFlpYTRTcDIwSkJzZVNiaTBKbXJXVUZxUTZDaGpUcXRQUlpPb1dEb0tBR1J5VEM5ZVRqUklsNGItOWRIZUtidFVhT1ZLRHhDY0pYd0lLdFIzaEZDam15WHJfQU9kVmJRQ3pRS25PeE1HSUFvc3MtMGM?oc=5"
     }
   ]
 }
