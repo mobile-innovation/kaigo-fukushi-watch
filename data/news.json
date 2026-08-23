@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-22T18:46:26.436Z",
+  "updatedAt": "2026-08-23T01:57:42.006Z",
   "articles": [
+    {
+      "d": "08/23",
+      "c": "テック",
+      "t": "介護を変える！ 現場発のAI見守りシステム - RKB毎日放送",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5uaDRNUWNHZGdUMG5oZFdNcGVUc0V4eGtEb0NZYzE3aEFaUlFMQjZOMno0WHR6ZlF2YllFeGNWd25LT0JnSUd6TExhLUlWMlk?oc=5"
+    },
     {
       "d": "08/22",
       "c": "制度",
       "t": "対象となる個人に対し、毎月社会福祉給付金および社会年金給付金を支給する。 - Vietnam.vn",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOWsxS2hBdjZZXzBjOG1pMFZhZER5WXV6VG9YUXV4U1VmOUJTSDFVWFdjZmZGcFB3VnlIN01QSVNORWtvSUtOcHhaM2ZuYU5YZml1Yi1EZHFqeTZ3Vng3Y28zWnlhT29wMUVyckt2YUYxdnQ0U3gzdWJLVXNLSmJJTjQwMjdWcWh4Z20xbzJraTVRTmoxbXJOMFRWZDBVc3phTXVFdHFDUnNkdw?oc=5"
-    },
-    {
-      "d": "08/22",
-      "c": "テック",
-      "t": "AI × 介護・見守り 高知発スタートアップ、イレブンラボ（ElevenLabs）日本語音声×AI技術で「故人・家族の声」を再現。認知症や独居高齢者向けAI通話サービス「リリーメモリー」8月提供開始：山陽新聞デジタル｜さんデジ - 山陽新聞",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWdmZjNHQtNDVtc0xJaGRfMWFBcFZ1ZFNkWFY5NUJNT3A0blI4cHQ3eEVnSXRjNTUxSmxLMXNweGhzUC1aWS15OU0zdEg1UFJnLUFEVEZBUUlESlRKT3JrbUFPSXYtQ0E?oc=5"
     },
     {
       "d": "08/21",
@@ -51,18 +51,18 @@
       "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GczVaVjhhRTZJbHVIRFRXaklwMExvandKX25mOFdKN3pCbXhKWDZFOGEtUEtWMWJQSnI5dG1HMERZQ01Vc2JFMUF0U0N5SkJuOXZlMjllTzdlamJpZC1lcXU2WXdaelJweDhzdGZvdGR2TnJDenh1UFo3a2RaNFk?oc=5"
     },
     {
+      "d": "08/20",
+      "c": "地域",
+      "t": "福島市訪問介護事業所連絡会について／福島市公式ホームページ - city.fukushima.fukushima.jp",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VblVrSzFlSl9KLVNQejNiNk94aG9zZVR0X1JmN3pYSTVzOEJVQW9OYUVCV1JGcmd2bFBCdE9LaTVlbzdfTURHOGJqRzkwMlU0bUNYMXhUQ2ZySExBNmxfY0hHZHFPUmh1Mk5JQVVSRnlpczZBUWc?oc=5"
+    },
+    {
       "d": "08/19",
       "c": "地域",
       "t": "男性ヘルパーが訪問介護中に中抜けし２時間半パチンコ 京都市が「虐待」認定 （2026年8月19日掲載）｜YTV NEWS NNN - 日テレNEWS NNN",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbXZRd0E2a29IVHhtWWY0N2lxampPRzFjdGZteG84eS1QNDVnVktsT2w0NTBodkpPRVgwWGZWZlFDR3VmY1M4MjRlM3QtaTRrWXh5MERKRVRYRE9JQk9TTHFTdFlZcFRHQVJuTGVPMmdCSFpuZ0F4Q1dBNENNbGJrU0NpaFhac28?oc=5"
-    },
-    {
-      "d": "08/19",
-      "c": "地域",
-      "t": "在宅介護の費用ってどのくらいかかるの？ - 読売新聞",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMUxiby1mVE1qYkJSWk1EWmhBT3dqWkNfOVQwQVpnc1VURFRqcHllU01wc2x2STVLUi1mX0xKXzB6a1RlbE05ajNvWDNpMTVZV0FKUGdoLWpIejhPVTNxYV9VS0FSZGtRNW1lLXJTQ2w0R1AtaFBOQWl2cGlBdHdQNmFtR1pDUG80NHlmNkRyUDhZSVYzeWc?oc=5"
     },
     {
       "d": "08/19",
