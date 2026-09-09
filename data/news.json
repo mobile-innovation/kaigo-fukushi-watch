@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-09T16:34:35.653Z",
+  "updatedAt": "2026-09-09T20:53:56.203Z",
   "articles": [
+    {
+      "d": "09/10",
+      "c": "地域",
+      "t": "「訪問介護」充実へつながり 市内事業者ら情報共有 - タウンニュース",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5NeWJYQ3NBaVRIX21rSzRyRTBlbl9JUDJVa0dkUjJ6bEN0MWVyQzRPazdlenFRNDktN0dJd3ItNS1WZkV2M0hjYThMeFdyb0pvOW9TN3V5OGZsYXd2TjREM0Rsakg?oc=5"
+    },
     {
       "d": "09/09",
       "c": "地域",
@@ -32,7 +39,7 @@
     {
       "d": "09/09",
       "c": "テック",
-      "t": "［ケアラーの風景 超・老老介護］高齢者宅を訪ね見守り - 読売新聞",
+      "t": "［ケアラーの風景 超・老老介護］高齢者宅を訪ね見守り - yomiuri.co.jp",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52V1FISzJYd1k1c3VNdkdpVGdPbUlqM05VeEMyOFN3Ukt0VnZDeEp5ZmFONGlfR2k5Y3BMVmdUc2xpbW0zTWtXM0xyUHFFaEdvOE9tX1lCb25QUVZPUnlTRw?oc=5"
     },
@@ -58,13 +65,6 @@
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzUXhRTVNCOGJpMHpjZEZoWGV4UXZxN1BIaEMzdjFnYXk3RnFsM3AtS2NYZmRCelphRXZ0TkdwNFVJSHlzOFpfZzd4WU01MzhKcTJSYmNR?oc=5"
     },
     {
-      "d": "09/06",
-      "c": "制度",
-      "t": "（よみ解くしくみ）変わる介護保険料、地域差なぜ？ - 朝日新聞",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1PUF9lQVMyeXZYT2lwangwS0QzTjE0cEoyYkJjY2hYNmFYUkw5ZXNGejk4c0FhX1A0cTdwNUZSbTF4RG5ueWVHRi1YLTdwQ2RqZ3NEVENfSnZaWnBo?oc=5"
-    },
-    {
       "d": "09/05",
       "c": "テック",
       "t": "リフトで移動 センサーで睡眠確認… 岡山県内で「介護テクノロジー」導入進む 生活の質向上、職員負担減 - 山陽新聞",
@@ -87,15 +87,8 @@
     },
     {
       "d": "09/04",
-      "c": "地域",
-      "t": "令和8年度栃木県居宅介護支援事業所等経営改善支援事業費補助金について - pref.tochigi.lg.jp",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UQjAyZzVYam0xRXhGQ0NBWWhQd2p0cVpjak5Wb2RKengyZWV5Z3pzRWpoSi1STkZtOXRyb1gxZ0FHLU05QTBZMDdBNEt0LWo2bi1ERVdNMGNjUQ?oc=5"
-    },
-    {
-      "d": "09/04",
       "c": "人材",
-      "t": "【追加募集】令和８年度外国人介護人材雇用緊急対策補助金（旧：外国人介護人材雇用インセンティブ補助金）について - 大分県ホームページ",
+      "t": "【追加募集】令和８年度外国人介護人材雇用緊急対策補助金（旧：外国人介護人材雇用インセンティブ補助金）について - pref.oita.jp",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WWW5Fdnd2Rk9NUEpLaGhQTjZ3SVFSNUxGc25tbkF3RFlYWlpDTXN5N3hmUnpoV3k5cEZtTThReGhPeWdnaV9hdE5HcTdrYWRNTU9lTTE2NTdJOFpFR0pRdV9HNzRHd2w2R0JSeUJpUk5tX0QwaVRqVA?oc=5"
     },
@@ -109,7 +102,7 @@
     {
       "d": "09/01",
       "c": "テック",
-      "t": "【介護テクノロジー体験展示会】FUKUSHIMAカイゴ☆ラボ開催のお知らせ - pref.fukushima.lg.jp",
+      "t": "【介護テクノロジー体験展示会】FUKUSHIMAカイゴ☆ラボ開催のお知らせ - 福島県ホームページ",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5haTZ1S0NHcHBudGdvZ1hhX3otZE1EU2lnU1hRNFBpYm8xS094WnJURlB0RGpYMFczZ0FVTEo4OGRwdlRQbXdndVdRX3dmVmgtZHdoTnpGckZDRFNJMmwzd3RzeFN6ZU5rbENRQQ?oc=5"
     },
@@ -126,6 +119,13 @@
       "t": "外国人介護人材について（Regarding Foreign Care Workers) - city.hachinohe.aomori.jp",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWg5b1hkMjJwalNuRVNSb3Q4NXFST05LWDJZcG91bnp0aDJtYjhHdzY4bmpVdy1EVjkydmRlQW1qb2hHUnJlTnAwaW1adVBnLXFhVVNWdHV5Ni1sMU81dHFqRnkyTGtHODlKZVNzS0VEX1U1U1UxSW5ZMXNDZnNrcHFMX2JxRHc?oc=5"
+    },
+    {
+      "d": "08/21",
+      "c": "制度",
+      "t": "「おもいやり駐車場制度」について - pref.miyazaki.lg.jp",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZXFrNmhVcVBiRlBwLTRVWnBDM1FUQXVxWWRrNFpxaE0yMjI1cGtMU3FudUptWk1TX2VmT1c2cEtpMGNac3d1dlduNXNFZ0ZLUVV6Y3dlSTRJTHBjcFhETzJLSFFXSmRqUjc0TjZhX3pLbG1XRHZfdmljMzBZcGtUcFpuMl8?oc=5"
     },
     {
       "d": "08/17",
