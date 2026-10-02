@@ -1,26 +1,75 @@
 {
-  "updatedAt": "2026-10-02T05:29:07.759Z",
+  "updatedAt": "2026-10-02T12:26:12.819Z",
   "articles": [
     {
       "d": "10/02",
-      "c": "制度",
-      "t": "【10月23日 会場・オンライン同時開催】2027年度介護保険制度・介護報酬改定を見据えた介護経営戦略セミナー開催のお知らせ - 広島経済新聞",
+      "c": "地域",
+      "t": "【倒産】デイサービスや訪問介護を展開していた介護事業者が破産開始決定 負債総額は約3000万円【東京商工リサーチ】 - Yahoo!ニュース",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yM2E5UURpQ29FYVVfSWVJWGJYNVlSaEo0YmllYlFTTkVlQ1h1UVdnY3g1ZXlRM0ZRcGtuR2hPSTZnUlNXSWpja1F5YklSTHJ0eTlHZ1d3TQ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY2FUa0Y2M1djc0NTckRLczZzRWxsSVBmRktuNTJkaHdkamFpOWdQdlVVS1FTV28telBJWUxuSkozdnZ4anRQVURUbFk0QmYyTzYxVy13eW9zcVE2WlJyUlJUcmIwMWg0R2ZpckRwaW5CM244U2dQZUJONHdXU1U?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "地域",
+      "t": "電動バイクで訪問介護！ 東京都文京区が三崎未来電子の「L-noa（エルノア）」を支援実証の実証車両に採用 - Webikeプラス",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5lRUxoWnNrMW5QempUYnBleTBDN0Nvenhqa0xDX0hKMUlqeWpBNVp4OHRkMWhqZWpWclh4TkFVOXozU1kwTG1uRndFbVdmN2N1cXc?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "地域",
+      "t": "訪問介護の実習先でネックレス15本盗んだ疑い 37歳男を逮捕 「転売し生活費や飲み代に」 神戸|事件・事故 - kobe-np.co.jp",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KYXBnNVFwTHdTZ1NCY0VwUW85SHZhV244YUFFM0ZuWVFrVW4tUVpDN2JpekpPUnR4WmlnMVNZdUxVVG5xeEdFWlB0SkVvUFVST1Fqc1ZFdjZBSEk3ZThPMnp3WUpKRHRodTEyTg?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "制度",
+      "t": "毎月社会福祉給付金を受け取っている方々にとって朗報です。2026年10月5日から、給付額が8％増額されます。 - Vietnam.vn",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGZBN1NuQ21TNnlNcUc0MXh0N0RVTC14aWtrLUtJVUl0MU9id1FmZ3dBSVI0a2Z4dmp4U1hYVk0yWnk0T01hdzd1clV4STF6c3YxMkFYT2R6UkF1M3pELUNTQlNTVDJwWWowOUxFemppd0NuVFhpVGJXQVBFX3dNTzl5NUlfUElpSUZGVjZBakUyOTg3U194dmMzS2RtdEJFQ1BEc3NYbXhLU0JYWXVxdndrQlRwd2tZeTlTXw?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "制度",
+      "t": "介護保険 677人分、約2024万円支給漏れ「市独自の作業ツールに設定ミス」 熊本市 - TBS NEWS DIG",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtOVo2d0xoVlhXaC1WQUUzNV9EdXBrOHNDZHYyRHFUdERTUTRYZV9wajU2WEJoZXBTMXBXVnJwWTh6TWVqeGVpZWJJWm9jOGluam9DYlMwanFiUQ?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "テック",
+      "t": "見守り支援機器、介護の負担軽く 札幌の展示会に９０社＜シニアLife＞ - hokkaido-np.co.jp",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jcjduWHd4eVdUb09ObmVFM0UtZ2dIck5IUXUyaTdvbUU2Y2RYOGhQZ0pjZExHYUtraFpFY3hlZnNST1NZYTVHVUZSajdxa0JRQnNsZG4wVTJFQQ?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "テック",
+      "t": "見守り支援機器、介護の負担軽く 札幌の展示会に９０社＜シニアLife＞ - 47NEWS",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE45d3NZR0k2UGJBNmlwdktFamF2aVR3QjFidVJqYWczTXpEWUJYVFl4OEtmdDY3RDNsWTd6NXEyQXVDYWF0RTQ0cjJXVQ?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "テック",
+      "t": "介護業界日本最大級の商談型展示会「大阪ケアウィークʼ26 Careテクノロジー大阪 介護テクノロジー展」に出展します!! - PR TIMES",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Sam05RnJXX2VkeC1NaTNyZWNuQnY2U2VLYXBfd09YbnJwblJkclRfZ2hxTS1hMmVTbFpXSlhuVE56VVBIb2J1WGFITEVuNGMyMkVFaE1nUUM2b0VGVzBaWjFkdTlJd3NxRkE?oc=5"
+    },
+    {
+      "d": "10/02",
+      "c": "制度",
+      "t": "[お得情報]海洋・船舶、公益・福祉に助成金／日本財団 - 東奥日報社",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aE5yYUdRTGEwSWdUVGFGQ1o1TWJuS0NhQWM0dWozTGIzTDEwUGdyTndfb0kwLUxENmVxN3RVLThUSmVMUmxfNzVPT1d3NGJsbVRfMDQ5ZVQ?oc=5"
     },
     {
       "d": "10/02",
       "c": "人材",
-      "t": "【村上久美子】介護報酬に賃金・物価の自動スライドを 現場の使命感に頼る「3年縛り」はもう限界 - 介護ニュースJoint",
+      "t": "【村上久美子】介護報酬に賃金・物価の自動スライドを 現場の使命感に頼る「3年縛り」はもう限界 - joint-kaigo.com",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE52bnFMbkI4bTFCeEt5T2tYWTZJM3BRX3lyZkVaZERROHB2QzdoN0h5d0tLdUtHQW5HYVQyd2dQNFJQYTctcXVtNFpGLXZISGp4WkNNWEt3?oc=5"
-    },
-    {
-      "d": "10/02",
-      "c": "人材",
-      "t": "【10月23日 会場・オンライン同時開催】2027年度介護保険制度・介護報酬改定を見据えた介護経営戦略セミナー開催のお知らせ - 時事ドットコム",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUVUR1bkRIQTNIOFhMSGRzVHZYMFVDalIwbm5VbWJwc1JpbDAxb3E3cW81WmZDcVNUZUpQd2M0WTlWTndUdU5JRUNUNWUzODhlLUVnZzg5ZXkwVzZXeVd3U29qOUxzSDc2LVRv?oc=5"
     },
     {
       "d": "10/02",
@@ -31,10 +80,10 @@
     },
     {
       "d": "10/02",
-      "c": "地域",
-      "t": "ケアマネ不足が深刻化する未来を見すえて─。 AIタスクの「ケアマネ補佐職種」誕生も？ - ケアマネドットコム",
+      "c": "制度",
+      "t": "【10月23日 会場・オンライン同時開催】2027年度介護保険制度・介護報酬改定を見据えた介護経営戦略セミナー開催のお知らせ - PR TIMES",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QVXcyLWt0akVpOXZGWDBnTHAyQmNsX0FsYnNDbVlZSFo5bUM2RFY3ZnJSTXBjM3E2OUtVNmg1OWs4dmtGX2xGMFZMTGctX2pWV0pNZ2FHUWxYMkJWQVE?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9EWVQ3MFJ1NC1pTk1XNXNEeDRsekNoTWdtNkJ4djFDV1RfQzZCLXJRNDIydU1TYjJXazdkQ1dRY2ctZjdJRTUwZzlyVGx4T1FjNHBtdzE4VHB5MmQ2c2c3b0h1czl4MGFuOXc?oc=5"
     },
     {
       "d": "10/02",
@@ -44,60 +93,11 @@
       "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ba1ZtMlowWG14SVUwVXhBU1N6ZVhWeV9jYmR0clN4VVdDeC1KOUdYdFduT1pwWGVhQWtIWU9aYkJBZHpheFlPUnpaVjBpWWs5cEVpNW10UVcwYXJDNEZpVDRJUk51SDFOUUozZGdBUG0yUQ?oc=5"
     },
     {
-      "d": "10/01",
-      "c": "制度",
-      "t": "【精神障害者保健福祉手帳】所持者「154万7433人」5年連続で増加！「1級・2級・3級」で何が違う？所持することで受けられる「優遇制度」東京都の事例で確認 ハローワーク経由の就職は11万5178件、精神障がい者が最多 - LIMO | くらしとお金の経済メディア",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE90blZkSmNDamFGN2VqZzZsSU1WNFpVZ0IzVDRaV0piTUVNYVlvNDRjY3V0cUd5NmZ5azNidmV5ZkpHUDViM05vTU4wSmc?oc=5"
-    },
-    {
-      "d": "10/01",
-      "c": "テック",
-      "t": "介護テック活用、在宅でも報酬で後押し 厚労省案 来年度改定で施設中心の評価から領域拡大 AIも含め検討 - 介護ニュースJoint",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9STF9sMTFKcEs4eVdPcXljTGJPSFNzT3RfQThKZWh1c3p0TF9ScEg1NS1NZTdxcWZKMmdzZi12NElkODlEYWw0MDQ2MWprODV1QnpuV3BR?oc=5"
-    },
-    {
-      "d": "10/01",
-      "c": "地域",
-      "t": "新田恵利さんが自身の6年半にわたる在宅介護経験を語る 市民公開講座「今日は親のことを考えよう」 介護・後見・相続をテーマに、さいたま市で開催 | 埼玉司法書士会 - アットプレス",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5nLWptOVZXaERBYW9aOEVJeHJVa3k1V2lpeExxSGNhZWZ1Q0VKMGl5ZHJfR0hGN2V0ajdWR1pJVkg5OEJzXzNNRzV2enRxUQ?oc=5"
-    },
-    {
-      "d": "10/01",
-      "c": "テック",
-      "t": "藤沢で介護・福祉ロボット展示会 プライバシー守る見守りシステムも（みんなの経済新聞ネットワーク） - news.yahoo.co.jp",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoUlM0MXhfYzFHR3g3eWRhWmR1UEkzUVhHb0h1cV9iQmh6WDhCdWRqOXRmbGJPa1RXaWFRTi1icjFYMXFQM0owMVhzSlVlOWUzZUtVOVBQbEMxYmk3TUlJdWpHanZOZlBDUTlxY0o0a0E2TlpWVVBfVzlsV1JiVFk?oc=5"
-    },
-    {
-      "d": "09/30",
-      "c": "地域",
-      "t": "【倒産】訪問介護事業者が破産開始決定...小規模事業で利用者の獲得も進まず資金繰りが困難に【東京商工リサーチ】 - TBS NEWS DIG",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GUjB4UnpsYW5CQmhOVTdwaHkxYkgyVk9oVm5iZUlMR3ozUzg1YlZOVFk5bTJ2bGhPTm5DdmVLd2FSUFZwYTZUOURBYWNCeG1ZX0RRSmktVDZoOWpRbHNr?oc=5"
-    },
-    {
-      "d": "09/30",
-      "c": "制度",
-      "t": "障害者福祉に「制度ハック」が広がる理由、グループホームや訪問看護で相次ぐ不正請求のカラクリ - JBpress",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DQjY4U0FlRXBTWVZ0UWJ2SWtNbjIyRVRTejZPU0NMaVNvdzZMNVEweUkzVzFaZGR5bFFiTFBtT0dQY0pfeG5tTlcyVWZLYjMxMS1mNGNR?oc=5"
-    },
-    {
       "d": "09/29",
       "c": "人材",
       "t": "介護の給料は2026年いくら上がった？月1.9万円の時期・パートの扱い・処遇改善手当との違いを解説 - 補助金ポータル",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9uSkZFanFrVDNKZ1doN3ZwdXR3ZGZzcENNcTdhRTJNM19OUTI4TGQyekdTSkV4azc0X3ZWaFVQTjJjMHN5TTF0MkdiYkh6UGlJel92M3Z0el96UHdXTlJteEJuWDRIUQ?oc=5"
-    },
-    {
-      "d": "09/29",
-      "c": "制度",
-      "t": "制度が変わる、そのたびに【介護の「今」】（時事通信） - news.yahoo.co.jp",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xbk4zQ29idzQ4dGotVzBkZXZCWG9wWTJyNDBzcjFZc3N4Ti0tMTlLNEw5N0JLbGNneWg1Z3N6dGNYV05qMTRHM01YNzlvQ3JuRFBScU9XaFVQd1RYWUVfd25wYlc1Z1k5ZFFRcDgtaWx3RVB2Rzl6bDFtYWN6U0E?oc=5"
     },
     {
       "d": "09/29",
@@ -119,13 +119,6 @@
       "t": "【お知らせ】令和8年度介護人材確保・定着促進に係る取組 - pref.kagoshima.jp",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xU1N2QXFaV2IweXdJUktoMk5QTFV3RDJLM2xYb1N1RHppN2xpbkVPbGszak8xbkdlV0FvRkNrejI5Rm9FUWxkMjZQSTlfbUJkNzMxbDVmSWNpUmlGeURBR05JemlFX1pVVVhld0Nfa3FFVHFZ?oc=5"
-    },
-    {
-      "d": "09/09",
-      "c": "テック",
-      "t": "新潟市介護テクノロジー導入補助金 新潟市 - city.niigata.lg.jp",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBhbnpFZkRoR2NISVk4Z2swZFhka2JZWVFOZ1JtbXlicTUyclBILUxnRFhNYTZ5UWY3X243U2tTWDM1ZjUyc0s5TkM3TXNNT1UtZEFZWkdGVmZPbS1lR0FFdE5GblRsQUpfQzdBRmdOUFlKTWIzSFlMd3djVQ?oc=5"
     },
     {
       "d": "09/08",
