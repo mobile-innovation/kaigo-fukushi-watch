@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-10-09T22:34:34.074Z",
+  "updatedAt": "2026-10-10T05:44:49.139Z",
   "articles": [
     {
       "d": "10/10",
-      "c": "人材",
-      "t": "現場での長期活躍・国家資格取得を後押し！MIRAI、特定技能人材向け「介護福祉士受験対策講座」を10月よりリニューアル - Infoseek",
+      "c": "テック",
+      "t": "介護テクノロジーサミット2026を開催 —H. C. R. 2026 第53回国際福祉機器展＆フォーラム - 老施協デジタル",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE42MGlKV3J2SUt6LUJqS0hoWnh6VlNET19RZm1pMm1lWWdPdktfV3FXVGxveDA4dzM0eUhqVHZGT1BReWwtMEI1TnpnNGE2WXM1Tm92MGJyaExkUmx5dFRDQVdUb281TUMzbEtSNXBfYzAwdw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RNDRvVzJfVmdvMERLUHY4NFFPX2swTHZlN2xHczlvR2VtZHBMVWdhUGo0WmFvaXRzcTRlMEZZV25ySFlyWUhHZU5fWjlpQ0xJd0U0?oc=5"
+    },
+    {
+      "d": "10/10",
+      "c": "人材",
+      "t": "介護報酬改定で処遇改善の必要性明記 厚労省が基本的視点案を発表（福祉新聞WEB） - Yahoo!ニュース",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LUHpnRlFPTDRCZzMxMEh0T2lzNWljYW0yU0gtWFBLdmlmOW5kRjFtU3BnUWdoWHJTZEctajRWYTJDbkJaUEJkcjhXbEdldTN6aWxQa0U3WUx5Sl80MnpiWWJfcE51aHNGVkVCS1VpbnVtdVphQ3lyUC1qeVBZVDg?oc=5"
+    },
+    {
+      "d": "10/10",
+      "c": "地域",
+      "t": "「訪問介護ゼロ」自治体増加！…報酬減、物価高で「経営ピンチ」（読売新聞（ヨミドクター）） - Yahoo!ニュース",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BOGVHd095dUkyeVdyM214NXFQYzJiYml0Z3pVZUlTS1lEMFM2b0laeWNxTlRlNDJRU3NZZFhCUU1iRFhyQnpIbmJYb3AwOVN6ZFBWelZUZzBsVGNaMFI0V1VRaVRGNTN5TTlMOXpPbWdjOGI0Y0dkSDdMOG5nZlk?oc=5"
     },
     {
       "d": "10/09",
@@ -31,24 +45,10 @@
     },
     {
       "d": "10/09",
-      "c": "テック",
-      "t": "介護施設を全国展開するエクセレントケアシステム。AIなど先端テクノロジーをどうケアに生かすのか？ - ZUU online",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FbUZIVU42WjMxcmNBWGhkSWJJbktJTjcxbjNWUjVkckg5TG9samt4TmtCWFpWSWE2dzJ1UWtYWGJESEtZNURubmxBRXN6dw?oc=5"
-    },
-    {
-      "d": "10/09",
       "c": "地域",
       "t": "栃木の訪問介護事業者に破産開始決定 - 下野新聞社",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vSURyNXZkZjZ5Q1JzWnp4RDZJRmJGNExueUdaenYzbmpiVDNkbTAyT2VFeG5CRERreGVPd2dFWHoyNGtLeWY3R2Z3NDVhV3FrUzNHRTNrMlduQWs?oc=5"
-    },
-    {
-      "d": "10/09",
-      "c": "地域",
-      "t": "栃木の訪問介護事業者に破産開始決定 - 47NEWS",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLVE9nV2d0X0g4SEFIeFRZSWRBMFlHX0dPUm9qb3FYOVRMX0V0dWZUVHpxRmlvbHEySU1mQl9CSVoxOGcxSTgyTTJBcw?oc=5"
     },
     {
       "d": "10/09",
@@ -86,13 +86,6 @@
       "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oUTJjTHEyMlZtNkxCQ2tkSElNcWk2MlNCU2lNbVozSkh0RExGaTE2NEcxa2hhQ0dCMmg4cVFpcmlQN1hUOHZkQXNKOENYczZNeWM0ZWR6SllYZ1JJcmZiekR1ZG4yYTlKby03dUl5MjZIeFhiSlZnVzRMQ3Z6YVE?oc=5"
     },
     {
-      "d": "10/08",
-      "c": "制度",
-      "t": "豪雨予報で学校や学童は「休校・休園」すべきか？台風24号で揺れた自治体の判断…日本の福祉制度のジレンマの〝正体〟 - Wedge ONLINE",
-      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lcGdiYXJWazFsVzRBM1RTUXhNeDZXNk9kcXhfVk51SWhSaFZ0UW4xaUZmNmJqOHFPdUxyQmtFTGNfVDRFMnlGWEwtSGF3TTV4ZHdB?oc=5"
-    },
-    {
       "d": "10/07",
       "c": "人材",
       "t": "令和8年度新潟市介護人材実態調査について - 新潟市",
@@ -100,11 +93,11 @@
       "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzT2RFYlkzVnpWbEV3WUVCaXZDaXowRjdsODc1dnVQeUF2RVRVWXIxOWM0eG5Jcm5TNnV2cDdqdENWeTFLSUxrS0NjN3FHWlBzQlRGNE92cHRYWXFVVTM3cE1aejd6U21URDdELUtDcHFER3NJd3BJNTNDanJldw?oc=5"
     },
     {
-      "d": "10/05",
+      "d": "10/06",
       "c": "人材",
-      "t": "外国人介護人材 初の実態調査へ、山梨県方針【経済／山梨】 - sannichi.co.jp",
+      "t": "「おおつ介護フェスタ2025」を開催しました - 大津市",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vU1ZwVHU0dldQV0JEblVKc3VvZGxzQXBjYXgwSzJTZGpsZnEyTFI2OEptMTk1M05FYjc3dU41bUU3cTJGUEtaY3E2UDAybENEQTIzT2ViZE9pazR2V2tDUGNqNmNpdFVBVHJWbkFPQWNVT2VzT2dNOWxubw?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBISVZnRGpGck5pSzhzQWc5Tm0zX2xyNERtR3E4clpwRlF0QzBDTVRmZnNhUGhmaU1IcXlnSDRrekpJd3NaejRiT0JGYXJ0aXBET0UzbU10V1VtaEsyWWViVWpPRWx6MXJMMUM0Tg?oc=5"
     },
     {
       "d": "10/05",
@@ -121,11 +114,11 @@
       "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xU3l0MnZSZ01MQkJPQjA2dnlDT3phUjc2ZlAwNDJIcEpfS2RYWjd6U1NjOE45S0NHcVFFNnppTXVwYTdfVEY1VnhmUXA3VU9ILWR0NmZKczJNNDZQTS1HRG5hMjYtTnVDRzdFeWJlbXk?oc=5"
     },
     {
-      "d": "09/18",
+      "d": "09/24",
       "c": "人材",
-      "t": "【お知らせ】令和8年度介護人材確保・定着促進に係る取組 - 鹿児島県公式ホームページ",
+      "t": "【重要】介護職員処遇改善加算の届出等について - 鹿児島県公式ホームページ",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
-      "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xU1N2QXFaV2IweXdJUktoMk5QTFV3RDJLM2xYb1N1RHppN2xpbkVPbGszak8xbkdlV0FvRkNrejI5Rm9FUWxkMjZQSTlfbUJkNzMxbDVmSWNpUmlGeURBR05JemlFX1pVVVhld0Nfa3FFVHFZ?oc=5"
+      "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCXzk3N1hvRDN6S0dCWjI5ZWpaSWhRS0EyZzdONHFkZXhaZkRNMERHOGh5c1RfMFg0RjlwS0hib1E0X3VhdVdLVU9hdFN0UnNrcVdobVpiV2xtbWRVdUVsM0RMbw?oc=5"
     },
     {
       "d": "09/18",
@@ -140,6 +133,13 @@
       "t": "ヘルパー全員70代、赤字続く中山間地の訪問介護 「担い手いない」 - 朝日新聞",
       "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
       "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aa0FFa3BNOVRqank3UVVoZUtGcV9OOEU2VTQ3VjkxTmszOVpiMDdWVGZ1cjNiLXE0QllQSzJVN1FxT2VLTS12REZkT3R2SXdjQ0hBM3dHWWNxdlBxeXExQXJ5V1VZYjQ?oc=5"
+    },
+    {
+      "d": "07/31",
+      "c": "制度",
+      "t": "難病患者福祉手当 - 那珂市",
+      "x": "Google ニュースから取得した、福祉・介護に関する最新記事です。",
+      "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3Bvb2M0MUhGQmRTVmZLNXBoVklPb2lxRXJWMzlLZWhoQXBYd0hXbDFxZmFRRjlYc0d5ZWRkelhMenFUVDdvOEY5Zm5Cd1NzVG1taHhJU0dPbXBlZ294OGVuSWlRNGN6MXlFZ05UU1pmXzNJZFEwTGNTUmRIRlVpVVZnWUM5aDBwcXMzSEFGOHh0VmFRdUwyMTh3?oc=5"
     }
   ]
 }
